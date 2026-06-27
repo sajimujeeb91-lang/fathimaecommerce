@@ -1,0 +1,12 @@
+img{
+    width: 300px;
+    height: auto;
+}
+
+.row{
+    align-items: center;
+}
+
+.col{
+    text-align: left;
+}
